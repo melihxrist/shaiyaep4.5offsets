@@ -1,0 +1,8 @@
+Name: 0x850A46
+Map: 0x084E6E0
+Level: 0x84D678
+Job: 0x84FA22
+Family: 0x84FA1D
+Kill: 0x021E4F68
+
+LoginStatus: 0x08E0E8
